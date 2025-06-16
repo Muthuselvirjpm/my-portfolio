@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.0d6acde6.css",
-    "main.js": "/my-portfolio/static/js/main.e46d624c.js",
+    "main.css": "/my-portfolio/static/css/main.9835ca15.css",
+    "main.js": "/my-portfolio/static/js/main.3d10ebca.js",
     "static/js/453.bb828c5d.chunk.js": "/my-portfolio/static/js/453.bb828c5d.chunk.js",
     "static/media/CSS3_logo_and_wordmark.svg.png": "/my-portfolio/static/media/CSS3_logo_and_wordmark.svg.c16622345d3b90bf9f23.png",
+    "static/media/Visual_Studio_Code_1.35_icon.svg.png": "/my-portfolio/static/media/Visual_Studio_Code_1.35_icon.svg.c6e78dde517994a49dc8.png",
     "static/media/JavaScript-logo.png": "/my-portfolio/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "static/media/sundirect-logo.png": "/my-portfolio/static/media/sundirect-logo.ba7004deb30bcc95f45c.png",
     "static/media/bootstrap-logo-shadow.png": "/my-portfolio/static/media/bootstrap-logo-shadow.6f4264b513870b1941b2.png",
     "static/media/nodejsLight.svg": "/my-portfolio/static/media/nodejsLight.bd8ae586b9726f8db2651dc7d2e521bd.svg",
     "static/media/mysql-original-wordmark.svg": "/my-portfolio/static/media/mysql-original-wordmark.6394bc2572c13c00cc6e48bb91629ab3.svg",
@@ -12,12 +14,12 @@
     "static/media/redux.svg": "/my-portfolio/static/media/redux.71eb13e2fdd1de624e9a856125906e3b.svg",
     "index.html": "/my-portfolio/index.html",
     "static/media/react-logo.svg": "/my-portfolio/static/media/react-logo.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.0d6acde6.css.map": "/my-portfolio/static/css/main.0d6acde6.css.map",
-    "main.e46d624c.js.map": "/my-portfolio/static/js/main.e46d624c.js.map",
+    "main.9835ca15.css.map": "/my-portfolio/static/css/main.9835ca15.css.map",
+    "main.3d10ebca.js.map": "/my-portfolio/static/js/main.3d10ebca.js.map",
     "453.bb828c5d.chunk.js.map": "/my-portfolio/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d6acde6.css",
-    "static/js/main.e46d624c.js"
+    "static/css/main.9835ca15.css",
+    "static/js/main.3d10ebca.js"
   ]
 }
