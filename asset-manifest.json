@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.9835ca15.css",
-    "main.js": "/my-portfolio/static/js/main.3d10ebca.js",
+    "main.css": "/my-portfolio/static/css/main.47fb1225.css",
+    "main.js": "/my-portfolio/static/js/main.50c0670e.js",
     "static/js/453.bb828c5d.chunk.js": "/my-portfolio/static/js/453.bb828c5d.chunk.js",
     "static/media/CSS3_logo_and_wordmark.svg.png": "/my-portfolio/static/media/CSS3_logo_and_wordmark.svg.c16622345d3b90bf9f23.png",
     "static/media/Visual_Studio_Code_1.35_icon.svg.png": "/my-portfolio/static/media/Visual_Studio_Code_1.35_icon.svg.c6e78dde517994a49dc8.png",
@@ -14,12 +14,12 @@
     "static/media/redux.svg": "/my-portfolio/static/media/redux.71eb13e2fdd1de624e9a856125906e3b.svg",
     "index.html": "/my-portfolio/index.html",
     "static/media/react-logo.svg": "/my-portfolio/static/media/react-logo.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.9835ca15.css.map": "/my-portfolio/static/css/main.9835ca15.css.map",
-    "main.3d10ebca.js.map": "/my-portfolio/static/js/main.3d10ebca.js.map",
+    "main.47fb1225.css.map": "/my-portfolio/static/css/main.47fb1225.css.map",
+    "main.50c0670e.js.map": "/my-portfolio/static/js/main.50c0670e.js.map",
     "453.bb828c5d.chunk.js.map": "/my-portfolio/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9835ca15.css",
-    "static/js/main.3d10ebca.js"
+    "static/css/main.47fb1225.css",
+    "static/js/main.50c0670e.js"
   ]
 }
